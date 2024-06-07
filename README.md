@@ -15,5 +15,5 @@ Sprites were made using Piskel App.
 - and that is literally all there is
 
 ## Uses the following libraries
-+ [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
++ [.NET Framework 4.6.1](https://dotnet.microsoft.com/en-us/download/visual-studio-sdks?cid=getdotnetsdk)
 + Windows Media Player w/ stock SoundPlayer libraries.
